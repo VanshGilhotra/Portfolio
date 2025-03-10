@@ -1,0 +1,25 @@
+/* Ensure that body takes full height for scrolling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 100%;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    background-image: url(images/back.png);
+  }
+  
+  .main-content {
+    min-height: 100vh; /* Makes the Home section fill the screen */
+    margin-bottom: 50px;
+  }
+  
+  .about-section {
+    /* padding: 20px; */
+    min-height: 100vh; /* Ensures the About section fills the screen */
+  }
+  
+  /* Optional styling to separate sections */
+  .home {
+    margin-bottom: 50px; /* Add space below Home section */
+  }
+  

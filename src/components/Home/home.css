@@ -1,0 +1,17 @@
+body{
+    /* background-image: url(images/back.png); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(57, 167, 218);  
+    margin-bottom: 250px;
+    min-height: 100vh;;
+}
+.intro{
+    font-size: 40px;
+    margin: 130px 65px;
+    text-shadow: 2px 1px rgb(202, 202, 202);
+    font-style: oblique;
+
+}
