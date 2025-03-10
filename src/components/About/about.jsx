@@ -33,6 +33,10 @@ const About = () =>{
                     for creating websites. <br /><br />I have a great knowledge of many Programming <br />Languages like: C++,Java,Python,React,etc. <br /><br />
                     I have also created basic web pages using these <br />languages for example: Calculator,Weather App <br />using WEATHER API etc.</p>
                 </div>
+                <div className="services">
+                    <h1>Services</h1>
+                    <p>I can Help you in creating a beautiful and featured <br />website as per your requirements. <br /><br />I am good in Website designing and new features <br />to add in it for better UX. <br /><br />I am going to learn Database Management <br />for website soon and i update it soon as it is completed.</p>
+                </div>
             </div>
             </div>
         </>

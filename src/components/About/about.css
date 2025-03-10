@@ -32,10 +32,13 @@ hr{
     margin: 25px 15px;
     border: 2px solid black;
     box-shadow: 2px 1px rgb(57, 167, 218);
+    width: 30%;
 }
 .section2 div{
-    margin: 25px;
+    margin: 25px 15px;
     padding: 0px 10px;
     display: inline-block;
+    border: 2px solid black;
     box-shadow: 2px 1px rgb(57, 167, 218);
+    width: 30%;
 }
