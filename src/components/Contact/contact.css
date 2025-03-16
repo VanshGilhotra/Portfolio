@@ -1,0 +1,67 @@
+.contact-card{
+    display: flex;
+    box-sizing: border-box;
+    margin: 30px auto 0;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    padding: 20px 0px;
+    background-color: black;
+    height: 500px;
+    border: 2px solid;
+    /* box-shadow: 1px 1px 1 ; */
+    box-shadow: 2px 1px 8px rgb(57, 167, 218);
+    border-radius: 20px;
+}
+
+#name{
+    width: 340px;
+    height: 30px;
+    margin: 10px 0px;
+}
+#mail{
+    width: 340px;
+    height: 30px;
+    margin: 10px 0px;
+}
+#message-area{
+    width: 340px;
+    height: 130px;
+    margin: 10px 0px;
+}
+
+#submit-btn{
+    width: 230px;
+    max-width: 500px;
+    margin: 20px 65px;
+    height: 30px;
+    font-weight: bold;
+
+}
+#insta-logo{
+    width: 25px;
+    height: 30px;
+    margin-left: -30px;
+    transition: transform 0.3s ease;
+}
+#facebook-logo{
+    width: 23px;
+    height: 30px;
+    margin-left: -30px;
+    transition: transform 0.3s ease;
+}
+#snapchat-logo{
+    width: 23px;
+    height: 30px;
+    margin-left: -30px;
+    transition: transform 0.3s ease;
+}
+#insta-logo:hover{
+    transform: scale(1.1);
+}
+#facebook-logo:hover{
+    transform: scale(1.1);
+}
+#snapchat-logo:hover{
+    transform: scale(1.1);
+}

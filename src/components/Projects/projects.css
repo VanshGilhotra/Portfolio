@@ -1,0 +1,61 @@
+.projectdetails{
+    display: flex;
+}
+
+.project1{
+    flex: 1;
+    margin: 25px 15px ;
+    max-width: 400px;
+    /* display: inline-block; */
+    /* align-items: center; */
+    padding: 5px 10px ;
+    border: 2px solid black;
+    box-shadow: 2px 1px 8px rgb(57, 167, 218);
+}
+
+.project2{
+    flex: 1;
+    margin: 25px 15px ;
+    max-width: 400px;
+    /* display: inline-block; */
+    /* align-items: center; */
+    padding: 5px 10px ;
+    border: 2px solid black;
+    box-shadow: 2px 1px 8px rgb(57, 167, 218);
+}
+
+.project3{
+    flex: 1;
+    margin: 25px 15px ;
+    max-width: 400px;
+    /* display: inline-block; */
+    /* align-items: center; */
+    padding: 5px 10px ;
+    border: 2px solid black;
+    box-shadow: 2px 1px 8px rgb(57, 167, 218);;
+}
+
+.project4{
+    flex: 1;
+    margin: 25px 15px ;
+    max-width: 400px;
+    /* display: inline-block; */
+    /* align-items: center; */
+    padding: 5px 10px ;
+    border: 2px solid black;
+    box-shadow: 2px 1px 8px rgb(57, 167, 218);    
+}
+
+a{
+    color: chocolate;
+    text-decoration: underline;
+}
+#link{
+    color: cadetblue;
+}
+
+#github{
+    font-size: 18px;
+    text-decoration: underline;
+    margin: 5px 30px;
+}

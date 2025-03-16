@@ -15,7 +15,8 @@ nav h1{
 li:hover{
     cursor: pointer;
     transition: 1.0s;
-    color: rgb(221, 221, 36);
+    /* color: rgb(221, 221, 36); */
+    color: chocolate;
 }
 ul{
     display: inline-flex;
