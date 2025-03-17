@@ -5,6 +5,7 @@ import Nav from './Mains/Navbar';
 import About from './components/About/about';
 import Projects from './components/Projects/projects';
 import Contact from './components/Contact/contact';
+import Footer from './Mains/footer';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -24,6 +25,7 @@ function App() {
       <div className="contact-section">
         <Contact />
       </div>
+      <Footer />
     </>
   )
 }

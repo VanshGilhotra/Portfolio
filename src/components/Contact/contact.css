@@ -18,13 +18,25 @@
     width: 340px;
     height: 30px;
     margin: 10px 0px;
+    border-radius: 20px;
+    padding: 0px 10px;
+    border: 2px solid;
+    box-shadow: 0px 0px 10px rgb(57, 167, 218);
 }
 #mail{
     width: 340px;
+    padding: 0px 10px;
     height: 30px;
+    border-radius: 20px;
+    border: 2px solid;
+    box-shadow: 0px 0px 10px rgb(57, 167, 218);
     margin: 10px 0px;
 }
 #message-area{
+    border: 2px solid;
+    box-shadow: 0px 0px 10px rgb(57, 167, 218);
+    border-radius: 20px;
+    padding: 5px 10px;
     width: 340px;
     height: 130px;
     margin: 10px 0px;
@@ -64,4 +76,17 @@
 }
 #snapchat-logo:hover{
     transform: scale(1.1);
+}
+label{
+    padding-left: 20px;
+}
+
+.contact-us{
+    /* background-color: gray; */
+    padding: 30px 50px;
+    justify-content: end;
+}
+.detailed{
+    padding: 30px 50px;
+    /* background-color: gray; */
 }

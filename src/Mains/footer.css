@@ -1,0 +1,29 @@
+.footer{
+    background-color: rgb(22,25,29);
+    color: rgb(57, 167, 218);
+    padding: 5px 0;
+    margin: 15px 10px;
+    border-radius: 22px;
+    text-align: center;
+}
+.content{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#textstyle{
+    margin: 0;
+    font-size: 0.5rem;
+}
+
+.icons{
+    display: flex;
+    gap: 15px;
+}
+#links{
+    /* color: rgb(57, 167, 218); */
+    text-decoration: none;
+    font-size: 1.2rem;
+}
