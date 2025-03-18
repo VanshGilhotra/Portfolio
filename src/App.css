@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     height: 100%;
     overflow-x: hidden; /* Prevent horizontal scroll */
-    background-image: url(images/back.png);
+    background-image: url(back.png);
   }
   
   .main-content {
