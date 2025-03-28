@@ -1,8 +1,4 @@
 body{
-<<<<<<< HEAD
-    background-image: url('/My-Background.png');
-}
-=======
     background-image: url(My-Background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,4 +8,3 @@ body{
         max-width: 455px;
     }
 }
->>>>>>> 54ac6f3 (Responsive)
