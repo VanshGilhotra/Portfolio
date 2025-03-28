@@ -13,16 +13,16 @@ function App() {
   return (
     <>
       <Nav />
-      <div className="main-content">
+      <div className="main-content" id='home-content'>
       <Home />
+      </div> 
+     <div className="about-section" id='about-content'>
+      <About/>
       </div>
-      <div className="about-section">
-      <About />
-      </div>
-      <div className="project-section">
+      <div className="project-section" id='project-content'>
         <Projects />
       </div>
-      <div className="contact-section">
+      <div className="contact-section" id='contact-content'>
         <Contact />
       </div>
       <Footer />
