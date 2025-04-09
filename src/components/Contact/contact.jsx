@@ -21,9 +21,13 @@ const Contact = () =>{
 
     const SubmitReq = () =>{
         if(inputValues.name && inputValues.mail){
+            const name = inputValues.name;
+            const email = inputValues.mail;
+
+            console.log(name , "    ", email);
             alert("Submit Successfull...");
         }
-        // alert("Submit Successfull...");
+        alert("Submit Successfull...");
     };
 
     return(
