@@ -1,9 +1,4 @@
 body{
-    /* background-image: url(images/back.png); */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
     color: rgb(57, 167, 218);  
     margin-bottom: 250px;
     min-height: 100vh;;

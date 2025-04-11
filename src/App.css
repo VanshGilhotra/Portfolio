@@ -4,8 +4,7 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     height: 100%;
-    overflow-x: hidden; /* Prevent horizontal scroll */
-    /* background-image: url(src/assets/My-Background.png); */
+    /* overflow-x: hidden; */
   }
   
   .main-content {
